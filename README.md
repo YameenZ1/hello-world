@@ -1,2 +1,2 @@
 # hello-world
-Week13 Lab1 
+**Yameen Ahmed**, *3rd year computer science student*
